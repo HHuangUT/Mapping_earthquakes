@@ -6,6 +6,6 @@ For Deliverable 2:
 ![Deliverable 2](https://user-images.githubusercontent.com/80546200/120945003-f89c8e80-c6fc-11eb-8a93-d6879eaf3e3c.png)
 
 For Deliverable 3:
- - Added 3 Layers: Dark, Day Traffic, and Night Traffic
+ - Added 3 Maps: Dark, Day Traffic, and Night Traffic
 
 ![Deliverable 3](https://user-images.githubusercontent.com/80546200/120945008-fd614280-c6fc-11eb-83a6-d5bc554b18c5.png)
